@@ -1,0 +1,131 @@
+.thebg {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 200vh;
+    background-color: black;
+    background-size: cover;
+  }
+  .thetop {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 80%;
+    height: 50%;
+    background-color: gray;
+    border-radius: 20px;
+    margin-top: 50px;
+  }
+  .life {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .theicon {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 10%;
+    align-self: flex-start;
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .logotitle {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 50px;
+    margin-left: 10px;
+  }
+  .employmenttype {
+    font-size: 20px;
+    font-family: 'roboto';
+    margin: 0px;
+  }
+  .therate {
+    font-size: 15px;
+    margin: 0px;
+  }
+  .theline {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  .hrtag {
+  }
+  .thedetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 80%;
+    height: 100%;
+  }
+  .rdescription {
+    font-size: 15px;
+    margin: 0px;
+  }
+  .rdescriptionpara {
+    font-size: 15px;
+    margin: 0px;
+    width: 70%;
+  }
+  .simproductscontainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .theiconimage {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .similarjobs {
+    color: #ffffff;
+    font-size: 20px;
+  }
+  .increment {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .addto {
+    background-color: #3b82f6;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 5px;
+    color: #ffffff;
+    font-size: 10px;
+  }
+  .skilllogo {
+    width: 30px;
+    height: 30px;
+  }
+  .lifeatcompany {
+    width: 200px;
+    height: 100px;
+  }
+  .skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+  }
+  .skillblock {
+    margin-right: 20px;
+  }
+  

@@ -1,0 +1,26 @@
+.profilebg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+    background-color: #b6c5ff;
+    border-radius: 10px;
+    margin: 0px;
+    height: 200px;
+  }
+  .profileimg {
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+  }
+  .profilename {
+    font-size: 20px;
+    font-family: 'roboto';
+    color: black;
+  }
+  .profiledetails {
+    font-size: 14px;
+    font-family: 'roboto';
+    color: black;
+  }

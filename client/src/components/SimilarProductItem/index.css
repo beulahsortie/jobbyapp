@@ -1,0 +1,35 @@
+.spdatalist {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 30%;
+    height: 100%;
+    margin: 10px;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .spdataimage {
+    width: 50px;
+    height: 50px;
+    border-radius: 3px;
+  }
+  .spanicon {
+    margin: 7px;
+  }
+  .spdatatitle {
+    font-size: 15px;
+    font-family: 'roboto';
+    color: #1e293b;
+    font-weight: bold;
+  }
+  .spdatabrand {
+    font-size: 10px;
+    font-family: 'roboto';
+    color: black;
+    font-weight: norma;
+  }
+  
+  
+  
